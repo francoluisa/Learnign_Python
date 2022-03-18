@@ -10,7 +10,7 @@ print("Você digitou ", chute_str)
 
 chute = int(chute_str)
 
-if(numero_secreto == chute):
+if numero_secreto == chute:
     print("Você acertou!!")
 else:
     print("Você errou.")
